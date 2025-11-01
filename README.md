@@ -23,7 +23,7 @@ To install the `explorerhat` library, run:
 pip install explorerhat
 ```
 
-##Game Flow
+## Game Flow
 
 - The game starts by showing a short light pattern on the Explorer HAT’s LEDs.
 - The player must replicate the pattern by pressing the corresponding buttons.
